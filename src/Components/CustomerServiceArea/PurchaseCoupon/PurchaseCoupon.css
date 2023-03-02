@@ -1,0 +1,28 @@
+.PurchaseCoupon {
+	
+}
+
+.PurchaseCoupon .wrapper {
+    margin-top: 50px;
+    background-color: #39afaf;
+    padding: 10px;
+
+}
+
+.PurchaseCoupon button {
+    width: 150px;
+    height: 30px;
+
+}
+
+.PurchaseCoupon .cancel {
+    background-color: #8fa1af;
+}
+
+.PurchaseCoupon .yes {
+    background-color: #be2121;
+}
+
+.PurchaseCoupon .gap {
+    gap: 10px;
+}

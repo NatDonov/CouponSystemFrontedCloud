@@ -1,0 +1,39 @@
+.App {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-rows: repeat(12, 1fr);
+    /* background-color: yellow; */
+    color: white;
+    height: 100%;
+    width: 100%;
+}
+
+.App>.Header {
+    background-color: #ABC270;
+    grid-column: span 12;
+    grid-row: span 1;
+    color:#282c1c;
+
+}
+
+.App>.Menu {
+    background-color:  #FEC868;
+    grid-column: span 2;
+    grid-row: span 10;
+}
+
+
+.App>.Main {
+    background-color: #FDA769;
+    grid-column: span 10;
+    grid-row: span 10;
+    color: #25316D
+}
+
+
+.App>.Footer {
+    background-color: #473C33;
+    grid-column: span 12;
+    grid-row: span 1;
+    color: rgb(215, 238, 221);
+}

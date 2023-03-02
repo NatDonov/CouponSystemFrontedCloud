@@ -1,0 +1,29 @@
+.DeleteCustomer {
+	
+}
+
+.DeleteCustomer .wrapper {
+    margin-top: 50px;
+    background-color: #ABC270;
+    padding: 10px;
+
+}
+
+.DeleteCustomer button {
+    width: 150px;
+    height: 30px;
+
+}
+
+.DeleteCustomer .cancel {
+    background-color: #8fa1af;
+}
+
+.DeleteCustomer .yes {
+    background-color: #be2121;
+}
+
+.DeleteCustomer .gap {
+    gap: 10px;
+}
+

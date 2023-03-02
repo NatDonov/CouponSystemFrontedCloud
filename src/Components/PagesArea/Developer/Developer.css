@@ -1,0 +1,36 @@
+.Developer {
+	font-family: 'Poppins';
+	font-weight: 800;
+	color: black;
+	padding: 20px;
+	display: flex;
+    align-items: center;
+
+}
+	
+
+.Developer > h1{
+	color: rgb(37, 95, 37);
+}
+
+.Developer > h3{
+	color: rgb(37, 95, 37);
+}
+
+
+.Developer > li{
+	color: black;
+}
+
+.Developer  img{
+    margin-right: 10px;
+	height: 400px;
+	width: 300px;
+	border-radius: 50%;
+	box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+}
+
+
+
+
+

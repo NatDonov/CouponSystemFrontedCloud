@@ -1,0 +1,10 @@
+.Header {
+	display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.Header > h1{
+    text-shadow: 0 0 5px #f5f1f1, 0 0 10px #d3d3e6;
+}

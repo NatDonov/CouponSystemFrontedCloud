@@ -1,0 +1,24 @@
+.Menu {
+    /* padding-top: 50px; */
+    display: flex;
+    flex-direction: column;
+    justify-content:space-around;
+    align-items: center;
+}
+
+.Menu>a {
+    margin: 5px;
+    color: #25316D;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: x-large;
+    border-color: aliceblue;
+}
+
+.Menu>a:hover {
+    margin: 5px;
+    color: white;
+    text-decoration: none;
+    font-size:x-large;
+    font-weight: 900;
+}

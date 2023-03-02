@@ -1,0 +1,22 @@
+.About {
+    padding: 20px;
+
+	
+}
+
+.About p,li{
+	font-family: cursive;
+    color: black;
+    font-family: 'Poppins';
+	font-weight: 800;
+}
+
+
+.About p::first-letter {
+    font-size: 30px;
+    color: rgb(105, 163, 105);
+    font-weight: 900;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+

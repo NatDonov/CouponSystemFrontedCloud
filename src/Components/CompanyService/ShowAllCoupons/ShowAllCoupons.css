@@ -1,0 +1,22 @@
+.ShowAllCoupons {
+	
+}
+
+.filter {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5em;
+}
+
+.filter>select {
+    width: 50%;
+    border-radius: 15px;
+}
+
+.filter>input[range] {
+    border-radius: 15px;
+
+}
+
